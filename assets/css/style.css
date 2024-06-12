@@ -748,7 +748,7 @@ main {
   scroll-snap-align: start;
   width: 150px;  /* Set the desired width */
   height: auto;  /* Maintain aspect ratio */
-  max-height: 100px;  /* Optional: set a max height to control overall size */
+  max-height: 120px;  /* Optional: set a max height to control overall size */
   object-fit: contain;  /* Ensure images fit within the specified dimensions */
 
 }
